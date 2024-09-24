@@ -1,0 +1,20 @@
+# Bibliothèque pour les modèles préentraînés de Hugging Face
+transformers==4.30.2
+
+# Bibliothèque pour gérer les datasets, si tu veux en charger d'autres via Hugging Face
+datasets==2.13.0
+
+# PIL (Pillow) pour le traitement des images
+Pillow==9.5.0
+
+# Pour l'affichage et manipulation d'images
+matplotlib==3.7.1
+
+# torch pour la gestion du modèle (PyTorch est le framework derrière Hugging Face)
+torch==2.0.1
+
+# pandas pour la manipulation des données extraites
+pandas==2.0.3
+
+# Si tu veux gérer les JSON et éventuellement stocker les données extraites
+jsonlines==3.1.0
