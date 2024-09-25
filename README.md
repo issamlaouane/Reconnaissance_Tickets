@@ -22,3 +22,7 @@
 ### $ git branch -d temp-branch
 ### $ git status
 # source : https://huggingface.co/spaces/binery/Donut_Receipt_v1
+
+## Docker
+### > docker info
+### > docker build -t app_reconnaissance_tickets .
