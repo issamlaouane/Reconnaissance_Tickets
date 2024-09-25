@@ -5,6 +5,8 @@
 
 ## Pour modifier :
 
+### Remarque : "$ git pull origin main" avant de commencer des modifications en local, Cela t'assure de commencer avec une version à jour du code avant de faire des changements et éviter les conflits de synchronisation.
+
 ### $ git status puis $ git add . ou $ git add chemin/vers/fichier
 ### Une fois les fichiers ajoutés au staging area: $ git commit -m "Ton message de commit décrivant les changements"
 ### $ git push origin main
@@ -12,7 +14,8 @@
 
 ### $ git checkout -b temp-branch
 ### $ git pull origin main 
-### .. $ git add .
+### .. $ git add . | $ git commit -m "message"
 ### $ git checkout main
 ### $ git merge temp-branch
 ### $ git branch -d temp-branch
+### $ git status
