@@ -1,6 +1,5 @@
 import re
 import gradio as gr
-
 import torch
 from transformers import DonutProcessor, VisionEncoderDecoderModel
 
