@@ -1,7 +1,9 @@
 # Reconnaissance_Tickets
 ### > python -m venv .venv (pour créer un environnement virtuel .venv), > rm -r .venv (pour le supprimer)
-### > source .venv/bin/Scripts/activate (ou > source .venv/bin/bin/activate)
-### > pip install requirements.txt
+### $ source .venv/Scripts/activate (ou $ source .venv/bin/bin/activate)
+### $ pip install -r requirements.txt
+
+## > python app.py
 
 ## Pour modifier :
 
