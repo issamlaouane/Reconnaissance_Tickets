@@ -28,4 +28,4 @@
 ### > docker build -t app_reconnaissance_tickets .
 ### > docker run -p 7860:7860 app_reconnaissance_tickets
 
-# Application dockerisée et accessible sur >> http://localhost:7860 <<
+# Application dockerisée et accessible sur >> http://localhost:7860 >> http://localhost:7860/upload
